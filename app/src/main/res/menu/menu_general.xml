@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_general">
+    <item
+        android:id="@+id/menu_general_item_home"
+        android:title="@string/menu_general_item_home_text" />
+    <item
+        android:id="@+id/menu_general_item_calculations"
+        android:enabled="false"
+        android:title="@string/menu_general_item_calculations" />
+    <item
+        android:id="@+id/menu_general_item_rating"
+        android:title="@string/menu_general_item_rating_text" />
+    <item
+        android:id="@+id/menu_general_item_history"
+        android:enabled="false"
+        android:title="@string/menu_general_item_history_text" />
+    <item
+        android:id="@+id/menu_general_item_settings"
+        android:enabled="true"
+        android:title="@string/menu_general_item_settings_text" />
+</menu>

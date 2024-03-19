@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="menu_general_item_home_text">Heimat</string>
+    <string name="menu_general_item_calculations">Berechnung</string>
+    <string name="menu_general_item_rating_text">Wertung</string>
+    <string name="menu_general_item_history_text">Verlauf</string>
+    <string name="menu_general_item_settings_text">Einstellungen</string>
+    <string name="textview_description_text">Aber ja natürlich Hans ist nass, er steht unter dem Wasserfall</string>
+    <string name="button_open_calc_text">Rechner öffnen</string>
+    <string name="textview_title_text">BMI Äpp</string>
+    <string name="button_calc_text">Berechnen</string>
+    <string name="edittext_weight_text">Gewicht</string>
+    <string name="button_clear_text">Bereinigen</string>
+    <string name="edittext_height_text">Höhe</string>
+    <string name="textView_detail_text">Weitere Informationen</string>
+    <string name="textView_category_text">Kategorie</string>
+    <string name="textView_bmi_text">BMI</string>
+    <string name="textView_weight_text">Gewicht</string>
+    <string name="textView_height_text">Höhe</string>
+</resources>

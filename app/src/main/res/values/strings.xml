@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">demo2</string>
+    <string name="menu_general_item_home_text">Home</string>
+    <string name="menu_general_item_calculations">Calculations</string>
+    <string name="menu_general_item_rating_text">Rating</string>
+    <string name="menu_general_item_history_text">History</string>
+    <string name="menu_general_item_settings_text">Settings</string>
+    <string name="textview_description_text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</string>
+    <string name="button_open_calc_text">Open Calculator</string>
+    <string name="textview_title_text">BMI App</string>
+    <string name="button_calc_text">Calculate</string>
+    <string name="edittext_weight_text">Weight</string>
+    <string name="button_clear_text">Clear</string>
+    <string name="edittext_height_text">Height</string>
+    <string name="textView_detail_text">Details</string>
+    <string name="textView_category_text">temp</string>
+    <string name="textView_bmi_text">BMI</string>
+    <string name="textView_weight_text">Weight</string>
+    <string name="textView_height_text">Height</string>
+</resources>
