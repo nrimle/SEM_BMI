@@ -17,4 +17,5 @@
     <string name="textView_bmi_text">BMI</string>
     <string name="textView_weight_text">Weight</string>
     <string name="textView_height_text">Height</string>
+    <string name="textView_user_text">Name</string>
 </resources>
